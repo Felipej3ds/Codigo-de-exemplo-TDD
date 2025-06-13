@@ -1,0 +1,1 @@
+Replica do código do vídeo de TDD elaborado pelo prof. André Lanna, mantendo a mesma sequência do ciclo TDD demonstrado. o projeto criado com o IntelliJ, O IntelliJ esta resolvendo o JUnit automaticamente com suas próprias configurações internas.
